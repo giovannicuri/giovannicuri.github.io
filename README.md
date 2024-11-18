@@ -43,7 +43,7 @@ This page is about my research activity in mathematical logic.
 <ul>
 <P>
 
-<li><u><I><CITE> The uniform objects in constructive set theory.</u></CITE></I> <br>
+<li><u><I><CITE> The uniform objects in constructive set theory. </u></CITE></I> <br>
 Talk given at the workshop
 "Continuity, Computability, Constructivity - From Logic to Algorithms
   2012", dedicated to Dieter Spreen 65th birthday. Trier (Germany),
