@@ -27,7 +27,7 @@ This page is about my research activity in mathematical logic.
 <LI> Proof theory of constructive systems. Constructive set theories, constructive type theories.
 <LI> Generalized Stone dualities, pointfree topology (locale theory/formal topology),  topology, and the interactions of these subjects with mathematical logic.
 <LI> Topos-valid  mathematics,  constructive mathematics.</LI>
-</UL>
+
 
 
 <P>
